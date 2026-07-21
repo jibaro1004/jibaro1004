@@ -1,16 +1,58 @@
-## Hi there 👋
+# 안녕하세요! :blush: 👋
+### AI는 아직 배우는 중이지만, 설비 데이터를 이해하고 공정을 개선하는 엔지니어를 목표로 하고 있습니다. 🌱
 
-<!--
-**jibaro1004/jibaro1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Me:
+    def __init__(self):
+        self.name = "홍주"
+        self.now = "Python과 데이터 분석을 공부하는 중"
+        self.learning = [
+            "Python",
+            "NumPy",
+            "Pandas",
+            "시계열 분석",
+            "머신러닝",
+            "예지정비(PdM)"
+        ]
+        self.goal = "공정 데이터에서 의미 있는 인사이트를 찾고 해결하는 사람"
 
-Here are some ideas to get you started:
+me = Me()
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 지금 배우고 있어요.
+
+- 🐍 Python
+- 📊 데이터 분석
+- 📈 시계열 데이터 분석
+- 🤖 머신러닝
+- ⚙️ 예지정비(Predictive Maintenance)
+
+---
+
+## 🚀 현재 진행 중
+
+- 📚 K-디지털 아카데미
+- 🏭 제조 설비 데이터 분석
+- 🔍 이상 탐지(Anomaly Detection)
+- 📉 고장 예측(Failure Prediction)
+- 💻 데이터 분석 프로젝트
+
+---
+
+## 📚 GitHub에서는...
+
+✔️ 공부한 내용을 기록하고
+
+✔️ 실습 코드를 정리하고
+
+✔️ 프로젝트를 조금씩 완성해가고 있어요.
+
+> **컴퓨터 언어를 이해하고 활용하는 공정 엔지니어가 되고 싶어요** 🌿
+
+---
+
+## 💬 한 줄 소개
+
+> **" 잔디밭 꾸미기 렛츠고 ~ "** ☘️

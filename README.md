@@ -1,25 +1,21 @@
-# 안녕하세요 :blush: 👋
-### AI는 아직 배우는 중이지만, 설비 데이터를 이해하고 공정을 개선하는 엔지니어를 목표로 하고 있습니다. 🌱
+# HELLO WORLD :blush: 👋
+### AI는 아직 배우는 중이지만, 설비 데이터 이해 및 공정 개선이 가능한 엔지니어를 목표로 하고 있는 JIBARO 입니다. 🌱
 
 ```python
-class Me:
-    def __init__(self):
-        self.name = "홍주"
-        self.now = "Python과 데이터 분석을 공부하는 중"
-        self.learning = [
-            "Python",
-            "NumPy",
-            "Pandas",
-            "시계열 분석",
-            "머신러닝",
-            "예지정비(PdM)"
-        ]
-        self.goal = "공정 데이터에서 의미 있는 인사이트를 찾고 해결하는 사람"
-
-me = Me()
+me = {
+    "name": "홍주",
+    "status": "AI 입문자 🌱",
+    "learning": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "시계열 분석",
+        "머신러닝",
+        "예지정비(PdM)"
+    ],
+    "goal": "설비 데이터를 이해하고 공정을 개선하는 엔지니어"
+}
 ```
-
----
 
 ## 🌱 지금 배우고 있어요.
 
